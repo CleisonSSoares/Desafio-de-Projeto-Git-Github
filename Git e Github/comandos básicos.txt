@@ -1,0 +1,4 @@
+git status = verificar status
+git commit -m = comissão mais comentário
+git push origin main = mandar para a nuvem
+git add . = adicionar todas as variações 
